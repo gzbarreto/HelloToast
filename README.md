@@ -2,10 +2,11 @@
 Android Fundamentals Codelab
 https://developer.android.com/codelabs/android-training-layout-editor-part-a?index=..%2F..%2Fandroid-training&authuser=1#0
 
-# Principais trabalhados nesse codelab
+# What i learned
 
-- Editar o XML
-- Criar clickhandlers para os botões
-- Classe Toast para exibir mensagens curtas
-- Trabalhar com textviews e buttons
+How to create an app with interactive behavior.
+How to use the layout editor to design a layout.
+How to edit the layout in XML.
+"Toast" class for short messages
+
 
